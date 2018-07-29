@@ -1,7 +1,7 @@
 name,id,nametype,type,class,group,mass (g),fall,year,reclat,reclong,GeoLocation
 "Meru,15491,Valid,Stony,Ordinary,LL6,6000,Fell,1945-01-01,0,37.66667,""(0.000000, 37.666670)"""
-"Rumuruti,22782,Valid,Stony,No Class,R3.8-6,67,Fell,1934-01-01,0.26667,36.53333,""(0.266670, 36.533330)"""
-"Ipitinga,12044,Valid,Stony,Ordinary,H5,7000,Found,1989-01-01,0.35,-53.81667,""(0.350000, -53.816670)"""
+"Elephant Moraine 92164,9565,Valid,Stony,Carbonaceous,CR2,36.5,Found,1992-01-01,-76.04354,156.00941,""(-76.043540, 156.009410)"""
+"Dar al Gani 932,6473,Valid,Stony,Achondrites,Howardite,23,Found,2000-01-01,27.4,16.23333,""(27.400000, 16.233330)"""
 "Yambo,30345,Valid,Stony,Ordinary,H5,4,Fell,1951-01-01,1,22.5,""(1.000000, 22.500000)"""
 "Thika,54493,Valid,Stony,Ordinary,L6,14200,Fell,2011-01-01,-1.00278,37.15028,""(-1.002780, 37.150280)"""
 "Mbale,15455,Valid,Stony,Ordinary,L5/6,150000,Fell,1992-01-01,1.06667,34.16667,""(1.066670, 34.166670)"""
